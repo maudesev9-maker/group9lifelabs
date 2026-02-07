@@ -67,7 +67,7 @@ h2#text {
 
 div.selection-1 {
     position: absolute;
-    top:165%;
+    top:175%;
     left: 5.5%;
     border: 0.1px solid #468b6d;
     background-color: #e8f8f7;
@@ -92,7 +92,7 @@ p#text-1 {
 
 div.selection-2 {
     position: absolute;
-    top:165%;
+    top:175%;
     left: 28%;
     border: 0.5px solid #468b6d;
     background-color:#e8f8f7;
@@ -117,7 +117,7 @@ p#text-2 {
 
 div.selection-3 {
     position: absolute;
-    top:165%;
+    top:175%;
     left: 51.2%;
     border: 0.5px solid #468b6d;
     background-color: #e8f8f7;
@@ -142,7 +142,7 @@ p#text-3 {
 
 div.selection-4 {
     position: absolute;
-    top:165%;
+    top:175%;
     left: 75%;
     border: 0.5px solid #468b6d;
     background-color: #e8f8f7;
@@ -264,7 +264,7 @@ div.footer {
 }
 div.footer-1 {
     position: absolute;
-    bottom:-365%;
+    bottom:-435%;
     left: -0.1%;
     background-color: #142120;
     color: #fff;
@@ -354,4 +354,38 @@ div.footer-1 {
     color: #070e0e;
     border-radius: 40px 40px 40px 40px;
     border: 3px solid #388087;
+    box-shadow: 0px 2px 3px #142120, 0px 1px 15px #070e0e;
 }
+
+.solution-1 {
+    position: absolute;
+    top: 395%;
+    left:7.1%;
+    background-color: #5ca1b8;
+    width: 85%;
+    padding: 10px;
+    font-size: x-large;
+    font-family: 'Lucida Sans';
+    color: #070e0e;
+    border-radius: 40px 40px 40px 40px;
+    border: 3px solid #388087;
+    box-shadow: 0px 2px 3px #142120, 0px 1px 15px #070e0e;
+}
+
+.solution-2 {
+    position: absolute;
+    top: 455%;
+    left:7.1%;
+    background-color: #5ca1b8;
+    width: 85%;
+    padding: 10px;
+    font-size: x-large;
+    font-family: 'Lucida Sans';
+    color: #070e0e;
+    border-radius: 40px 40px 40px 40px;
+    border: 3px solid #388087;
+    box-shadow: 0px 2px 3px #142120, 0px 1px 15px #070e0e;
+}
+
+
+
