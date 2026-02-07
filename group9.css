@@ -264,7 +264,7 @@ div.footer {
 }
 div.footer-1 {
     position: absolute;
-    bottom:-445%;
+    bottom:-365%;
     left: -0.1%;
     background-color: #142120;
     color: #fff;
@@ -342,3 +342,16 @@ div.footer-1 {
     width: 36%;
 }
 
+.solution {
+    position: absolute;
+    top: 335%;
+    left:7.1%;
+    background-color: #5ca1b8;
+    width: 85%;
+    padding: 10px;
+    font-size: x-large;
+    font-family: 'Lucida Sans';
+    color: #070e0e;
+    border-radius: 40px 40px 40px 40px;
+    border: 3px solid #388087;
+}
